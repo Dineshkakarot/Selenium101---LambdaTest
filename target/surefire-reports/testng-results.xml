@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-02T18:02:17Z" name="Suite" finished-at="2025-06-02T18:02:43Z" duration-ms="25971">
+    <groups>
+    </groups>
+    <test started-at="2025-06-02T18:02:17Z" name="Test in Firefox" finished-at="2025-06-02T18:02:41Z" duration-ms="24562">
+      <class name="lambdaTestSelenium101.TestCase">
+        <test-method is-config="true" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdaTestSelenium101.TestCase@6d60fe40]" started-at="2025-06-02T18:02:17Z" name="setup" finished-at="2025-06-02T18:02:26Z" duration-ms="9516" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test in Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestScenario1()[pri:0, instance:lambdaTestSelenium101.TestCase@6d60fe40]" started-at="2025-06-02T18:02:26Z" name="TestScenario1" finished-at="2025-06-02T18:02:30Z" duration-ms="4041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario1 -->
+        <test-method signature="TestScenario2()[pri:0, instance:lambdaTestSelenium101.TestCase@6d60fe40]" started-at="2025-06-02T18:02:30Z" name="TestScenario2" finished-at="2025-06-02T18:02:33Z" duration-ms="2662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario2 -->
+        <test-method signature="TestScenario3()[pri:0, instance:lambdaTestSelenium101.TestCase@6d60fe40]" started-at="2025-06-02T18:02:33Z" name="TestScenario3" finished-at="2025-06-02T18:02:41Z" duration-ms="7558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lambdaTestSelenium101.TestCase@6d60fe40]" started-at="2025-06-02T18:02:41Z" name="tearDown" finished-at="2025-06-02T18:02:41Z" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- lambdaTestSelenium101.TestCase -->
+    </test> <!-- Test in Firefox -->
+    <test started-at="2025-06-02T18:02:17Z" name="Test in Chrome" finished-at="2025-06-02T18:02:43Z" duration-ms="25971">
+      <class name="lambdaTestSelenium101.TestCase">
+        <test-method is-config="true" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lambdaTestSelenium101.TestCase@14028087]" started-at="2025-06-02T18:02:17Z" name="setup" finished-at="2025-06-02T18:02:30Z" duration-ms="13223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test in Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestScenario1()[pri:0, instance:lambdaTestSelenium101.TestCase@14028087]" started-at="2025-06-02T18:02:30Z" name="TestScenario1" finished-at="2025-06-02T18:02:35Z" duration-ms="5227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario1 -->
+        <test-method signature="TestScenario2()[pri:0, instance:lambdaTestSelenium101.TestCase@14028087]" started-at="2025-06-02T18:02:35Z" name="TestScenario2" finished-at="2025-06-02T18:02:37Z" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario2 -->
+        <test-method signature="TestScenario3()[pri:0, instance:lambdaTestSelenium101.TestCase@14028087]" started-at="2025-06-02T18:02:37Z" name="TestScenario3" finished-at="2025-06-02T18:02:43Z" duration-ms="5646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lambdaTestSelenium101.TestCase@14028087]" started-at="2025-06-02T18:02:43Z" name="tearDown" finished-at="2025-06-02T18:02:43Z" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- lambdaTestSelenium101.TestCase -->
+    </test> <!-- Test in Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
